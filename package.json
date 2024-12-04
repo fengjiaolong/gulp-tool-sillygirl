@@ -1,0 +1,8 @@
+{
+  "name": "gulp-tool-sillygirl",
+  "version": "1.0.0",
+  "description": "gulp构建",
+  "main": "index.js",
+  "author": "sillygirl",
+  "license": "MIT"
+}
